@@ -1,6 +1,6 @@
 <!-- Typing Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shahzain+Suhag+%F0%9F%91%8B;Full-Stack+Web+Developer;JavaScript+%7C+Python+%7C+Node.js+%7C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Engr+Maliha+Asif+%F0%9F%91%8B;Full-Stack+Web+Developer;JavaScript+%7C+Python+%7C+Node.js+%7C+PHP" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 - 🔭 I’m currently building interactive web applications and backend systems.
 - 🌱 Exploring modern full-stack technologies and databases.
 - 💻 Love turning ideas into clean, functional code using **JavaScript**, **Python**, **Node.js**, and **PHP**.
-- 📫 How to reach me: **shahzainsuhag8@gmail.com**
+- 📍 Based in **Hyderabad**.
 
 ---
 
@@ -70,11 +70,11 @@
 ```php
 <?php
 class Developer {
-    public string $name = "Shahzain Suhag";
+    public string $name = "Engr Maliha Asif";
     public array $skills = ["JavaScript", "Python", "Node.js", "PHP", "MySQL"];
 
     public function build(): string {
-        return "Turning coffee and logic into scalable web apps!";
+        return "Turning logic and creativity into scalable web apps!";
     }
 }
 
